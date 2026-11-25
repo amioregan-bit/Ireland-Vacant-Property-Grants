@@ -112,12 +112,3 @@ Higher funding totals do not, on their own, demonstrate better local authority p
 
 The source publications contain some inconsistencies, which I have documented where identified. Updates require preparing and importing new PDF data; the report is not a live data feed.
 
-## My Contribution and What I Learned
-
-I carried out the work in Power BI Desktop, using the Strawberry Browser AI agent for step-by-step guidance, explanations and troubleshooting. I applied the transformations, tested the results and made decisions about the report’s scope, layout and wording.
-
-This project helped me move from following Power BI training exercises to working with an inconsistent public dataset. I developed practical experience in Power Query, table relationships, guided DAX calculations, validation and report design.
-
-I learned that building a useful report involves more than creating charts. It requires checking definitions, investigating discrepancies and being clear about what the data can and cannot tell us.
-
-This is an ongoing learning project. AI assistance helped me work through unfamiliar steps, while I remained actively involved in applying, questioning and reviewing the work.
