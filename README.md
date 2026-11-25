@@ -2,6 +2,22 @@
 
 **By Ami O’Regan | Data coverage to 30 September 2026**
 
+## Report Screenshots
+
+These are static screenshots of the Power BI report.
+
+### Overview
+![Report overview](Overview.png)
+
+### Funding by County
+![County funding map and local authority figures](Funding%20by%20County.png)
+
+### Grant Value by Council
+![Total grant funding paid by local authority](Grant%20Value%20by%20Council.png)
+
+### Quarterly Trends
+![Applications received and approved by quarter](Quarterly%20Trends.png)
+
 ## Project overview
 
 Ireland’s housing crisis is a social crisis, affecting people’s ability to find a secure and affordable home. Bringing vacant properties back into use is one part of the response. The Vacant Property Refurbishment Grant, funded through the Croí Cónaithe (Towns) Fund, was launched on 14 July 2022. [Source: Department of Housing, Local Government and Heritage](https://www.gov.ie/en/department-of-housing-local-government-and-heritage/press-releases/vacant-property-refurbishment-grant-expanded-to-cities-and-remote-rural-areas/)
